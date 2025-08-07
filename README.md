@@ -10,4 +10,4 @@ Aspiring data analyst.
 I love solving problems with creativity and data.
 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojm&layout=compact&theme=dracula&hide=jupyter)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojm&layout=compact&theme=compact&hide=jupyter%20notebook)
