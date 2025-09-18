@@ -2,7 +2,7 @@
  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaosuhett/)
-[![Kaggle Badge](https://img.shields.io/badge/kaggle-lightblue)](https://www.kaggle.com/carvalhojoao)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-lightblue)](https://www.kaggle.com/carvalhojoao)
 
 *EN:* Fashion designer with a postgraduate degree in product design transitioning to **data analysis**. Passionate about product management and process improvement.
 
