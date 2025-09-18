@@ -8,14 +8,12 @@
 
 Check out my projects in my portfolio:
 
-*PT:* Designer de moda com pós-graduado em design de produtos em transição para **análise de dados**. Apaixonado por gestão de produtos e melhoria de processos.
+*PT:* Designer de moda com pós-graduação em design de produtos em transição para **análise de dados**. Apaixonado por gestão de produtos e melhoria de processos.
 
 Confira meus projetos no meu portfolio:
 
 ## [***PORTFOLIO***](https://carvalhojm.github.io/portfolio/)
 
-
----
 
 ### Skills:
 Python (numpy, Pandas, Matplotlib, Scipy, statsmodels, scikit-learn), R (tidyverse, ggplot2), Modelos de Aprendizado de Máquina (regressão, decision trees, random forest, XGBoost), Power BI (DAX), Tableau, Google Analytics, Excel e PowerPoint.
