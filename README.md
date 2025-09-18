@@ -1,13 +1,16 @@
 ### Hi there! 👋🏻
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaosuhett/)
+[![Kaggle Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.kaggle.com/carvalhojoao)
 
+*EN:* Fashion designer with a postgraduate degree in product design transitioning to **data analysis**. Passionate about product management and process improvement.
+Check out my projects in my portfolio:
 
-### Glad to see you here!
+*PT:* Designer de moda com pós-graduado em design de produtos em transição para **análise de dados**. Apaixonado por gestão de produtos e melhoria de processos.
+Confira meus projetos no meu portfolio:
 
-Aspiring data analyst. 
-
-I love solving problems with creativity and data.
+### [**Portfolio**](https://carvalhojm.github.io/portfolio/)
 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojm&layout=compact&theme=compact&hide=jupyter%20notebook)
