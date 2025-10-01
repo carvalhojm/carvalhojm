@@ -16,7 +16,7 @@ Confira meus projetos no meu portfolio:
 
 
 ### Skills:
-Python (numpy, Pandas, Matplotlib, Scipy, statsmodels, scikit-learn), R (tidyverse, ggplot2), Modelos de Aprendizado de Máquina (regressão, decision trees, random forest, XGBoost), Power BI (DAX), Tableau, Google Analytics, Excel e PowerPoint.
+SQL, Python (numpy, Pandas, Matplotlib, Scipy, statsmodels, scikit-learn), R (tidyverse, ggplot2), Modelos de Aprendizado de Máquina (regressão, decision trees, random forest, XGBoost), Power BI (DAX), Tableau, Excel e PowerPoint.
 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojm&layout=compact&theme=compact&hide=jupyter%20notebook)
