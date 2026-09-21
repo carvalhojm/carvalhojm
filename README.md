@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaosuhett/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-lightblue)](https://www.kaggle.com/carvalhojoao)
 
+## [***PORTFOLIO***](https://carvalhojm.github.io/portfolio/)
+
 ## About Me
 
 **Data Analyst | Business Analytics | E-commerce Performance**
@@ -53,6 +55,6 @@ Regression | Decision Trees | Random Forest | XGBoost
 
 Explore my data analysis and technology projects:
 
-## [***PORTFOLIO***](https://carvalhojm.github.io/portfolio/)
+[**PORTFOLIO**](https://carvalhojm.github.io/portfolio/)
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojm&layout=compact&theme=compact&hide=jupyter%20notebook)
