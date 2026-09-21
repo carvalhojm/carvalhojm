@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaosuhett/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-lightblue)](https://www.kaggle.com/carvalhojoao)
 
-## [***PORTFOLIO***](https://carvalhojm.github.io/portfolio/)
+[***PORTFOLIO***](https://carvalhojm.github.io/portfolio/)
 
 ## About Me
 
@@ -33,27 +33,36 @@ Tenho interesse em **Análise de Dados, Business Intelligence, Product Analytics
 
 ## Technical Skills
 
-**Programming & Data Analysis**
+### Programming & Data Analysis
 
-Python (Pandas, NumPy, Matplotlib, SciPy, Statsmodels, Scikit-learn)
+Python (Pandas, NumPy, Matplotlib, SciPy, 
+Statsmodels, Scikit-learn)
 
 SQL | R (Tidyverse, ggplot2)
 
-**Business Intelligence & Visualization**
+### Business Intelligence & Data Visualization
 
-Power BI (DAX) | Looker Studio | Tableau | Excel (Advanced)
+Power BI (DAX) | Looker Studio | Tableau
 
-**Analytics & Data Tools**
+Excel (Advanced)
 
-GA4 | APIs | Data Automation | Data Cleaning | KPI Analysis
+### Data Engineering & Cloud
 
-**Machine Learning**
+Google BigQuery | Databricks | AWS
 
-Regression | Decision Trees | Random Forest | XGBoost
+Data Pipelines | ETL / ELT | Data Cleaning
+Data Integration | APIs | Data Automation
 
-## Projects & Portfolio
+### Analytics & Business Intelligence
 
-Explore my data analysis and technology projects:
+Exploratory Data Analysis (EDA)
+KPI Analysis | Business Analytics
+Performance Monitoring | Data-Driven Insights
+
+### Machine Learning
+
+Regression | Decision Trees
+Random Forest | XGBoost
 
 [**PORTFOLIO**](https://carvalhojm.github.io/portfolio/)
 
